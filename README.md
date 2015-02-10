@@ -1,4 +1,4 @@
-wsphp-javaclient
+vagnerbarbosa-wsphp-javaclient
 ================
 
 PHP SOAP WebService with Java Web client
